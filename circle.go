@@ -1,5 +1,7 @@
 package goshapes
 
+import "fmt"
+
 type Circle struct {
 	Radius float64
 }
